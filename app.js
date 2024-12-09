@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
         <li>Product 3 - $30</li>
       </ul>
     </body>
-    </html>
+    </html>n
   `);
 } );
 
